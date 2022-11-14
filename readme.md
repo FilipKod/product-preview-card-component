@@ -1,4 +1,4 @@
-### [FrontendMentor](https://www.frontendmentor.io/home) challenge:
+#### [FrontendMentor](https://www.frontendmentor.io/home) challenge:
 
 # Product Preview Card Component
 
