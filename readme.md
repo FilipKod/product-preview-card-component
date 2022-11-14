@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution]()
-- [Live Site]()
+- [Solution](https://github.com/FilipKod/product-preview-card-component)
+- [Live Site](https://filipkod-product-preview-card.netlify.app/)
 
 ## My process
 
